@@ -4,7 +4,7 @@
 // Engineer: 
 // 
 // Create Date: 10/07/2021 10:34:08 PM
-// Design Name: 
+// Design Name: Testbench for 4 bit counter
 // Module Name: Test_Counter_N
 // Project Name: 
 // Target Devices: 
